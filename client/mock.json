@@ -1,0 +1,10 @@
+{
+    "status": "ok",
+    "vehiculos": [
+        {
+            "marca": "peugeot",
+            "patente": "mlp 888",
+            "modelo": "2019"
+        }
+    ]
+}
